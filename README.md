@@ -1,2 +1,2 @@
 # netflix-clone-frontend
-A frontend Netflix clone UI using HTML, CSS and JavaScript
+A frontend Netflix clone UI using HTML, CSS and JavaScript <br> Mohit kaushik
